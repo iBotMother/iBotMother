@@ -23,10 +23,8 @@
 
 ## 3. Processing of User Data
 
-    I process personal data:
-    ❯ To provide services to Users and detect and address security issues related to services provided by BotMother and Bots created by Me.
+    ❯ I process User data To provide services to Users and detect and address security issues related to services provided by BotMother and Bots created by Me.
     ❯ User data is used only within the Platform for these purposes.
-    ❯ User data is not shared with anyone, including Users, Developers, or advertising services.
     ❯ i process only the data necessary to provide and improve the performance of BotMother services.
 
 ## 4. Data Protection
@@ -34,4 +32,14 @@
     I apply strong security measures to protect the integrity and confidentiality of all personal data i retain.
     ❯ Stopping Use – Users may stop using BotMother at any time.
     ❯ Usage History – Records of a User’s use of BotMother and my services may be retained to maintain restriction history, payment records, and prevent unauthorized use.
+    ❯ User data is not shared with anyone, including Users, Developers, or advertising services.
 
+## 5. Rights and Obligations
+
+
+
+## 6. Disclaimers
+
+
+
+## 7. Changes to this Terms of Service
