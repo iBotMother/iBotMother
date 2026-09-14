@@ -1,4 +1,4 @@
-# ⚡️ BotMother 
+# BotMother 
 
 <p align="left">
   <strong>Social Media Bot Developer</strong> Independent Dev | NOT affiliated with any company.
