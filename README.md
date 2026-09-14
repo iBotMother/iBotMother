@@ -7,9 +7,9 @@
 ---
 
 ##  About Me
-I am BotMother, an independent developer dedicated to turning complex automation ideas into reliable, high-performance production code. My core philosophy focuses on building lightweight, bulletproof infrastructures that seamlessly bridge the gap between platforms like Telegram/Meta and backend servers.
+I am BotMother, an independent developer dedicated to turning complex automation ideas into reliable, high-performance production code.
 
-* 🌐 Official Username (Telegram & Meta): @BotMother
+* 🌐 Username (Telegram & Meta): @BotMother
 
 ---
 
@@ -19,7 +19,6 @@ I am BotMother, an independent developer dedicated to turning complex automation
 If you or your company need a secure, high-performance bot tailored from scratch, let's talk.
 
 * Telegram: [@BotMother]
-* Meta: [@BotMother]
 
 ---
 <p align="center"><i>"Building the brain behind the bot, from Father's token to Mother's logic."</i></p>
